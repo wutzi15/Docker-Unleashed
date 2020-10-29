@@ -2,7 +2,7 @@
 A (very early) Proposal for a free and distributed alternative to docker hub.
 
 # What this is
-**This is a proposal, a collection of ideas and an invitation for comments**
+**This is a proposal, a collection of ideas and an invitation for comments!**
 
 If you have any ideas please open a pull request.
 
@@ -11,16 +11,16 @@ Starting on Nov. 1 2020 docker hub will limit the pulls for free repositories.  
 As of today I cannot find any (good) alternatives for that. Please let me know, if I'm wrong.
 
 # What?
-This is a proposal for a free and open source alternative for a docker registry.
+This is a proposal for a free and open source alternative for a docker registry, consisting of contributions of diskspace and bandwith. Think about it like the good (and legal :wink:) parts of torrents or a system like Seti@Home.
 
 ## Free
 The system should be free to use.
 
 ## Open Source
-The system should be an open source implemetation, with many contributors
+The system should be an open source implemetation, with many contributors.
 
 ## Distributed
-The system should now rely on a single data center or server. It should be distributed across any contributing partners.
+The system should not rely on a single data center or server for storage. It should be distributed across any contributing partners.
 
 # How
 - If you want to contribute disk space / bandwith the system should provide a way of registration and configuration.

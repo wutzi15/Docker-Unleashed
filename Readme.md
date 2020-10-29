@@ -7,7 +7,7 @@ A (very early) Proposal for a free and distributed alternative to docker hub.
 If you have any ideas please open a pull request.
 
 # Why?
-Starting on Nov. 1 2020 docker hub will limit the pulls for free repositories [source](https://www.docker.com/blog/docker-hub-image-retention-policy-delayed-and-subscription-updates/).
+Starting on Nov. 1 2020 docker hub will limit the pulls for free repositories.  [More info here](https://www.docker.com/blog/docker-hub-image-retention-policy-delayed-and-subscription-updates/).
 As of today I cannot find any (good) alternatives for that. Please let me know, if I'm wrong.
 
 # What?
